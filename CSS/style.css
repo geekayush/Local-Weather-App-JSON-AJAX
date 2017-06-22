@@ -1,0 +1,36 @@
+body {
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 100px;
+    background-image: linear-gradient(to bottom, skyblue, 80%, white);
+    height: 47em;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 4em;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+hr {
+    width: 70%;
+}
+
+#temp {
+    font-weight: 800;
+    font-size: 5.5em;
+}
+
+#apparent {
+    font-weight: 200;
+    font-size: 3em;
+}
+
+#sum,
+#wind {
+    font-weight: 500;
+    font-size: 2em;
+}
